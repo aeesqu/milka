@@ -1,0 +1,28 @@
+<--><--><--><--><--> Milka <--><--><--><--><-->
+-[] Window
+  -[] resizing
+  -[] maximizing
+  -[] icon
+-[] Input
+  -[] mouse middle button support
+  -[] typing support
+  -[] scrolling support
+-[] Renderer
+  -[x] drawing vertex buffers
+  -[] rotating
+  -[] transparency
+  -[] passing shaders to the render
+  -[] textures
+  -[] text rendering
+  -[] experimental: Simple 2d light effects (no raycasting)
+-[] Resource manager
+  -[] handles and arenas
+  -[] texture resources
+  -[] font resources
+-[] Job system
+  -[] job system
+-[] Log system
+  -[] log levels
+  -[] logging to files
+-[] Others
+  -[] dll exporting

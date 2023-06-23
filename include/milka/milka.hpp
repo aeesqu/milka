@@ -1,0 +1,12 @@
+// INCLUDES
+// Core
+#define SDL_MAIN_HANDLED
+#include "milka/core/context.hpp"
+#include "milka/core/window.hpp"
+#include "milka/core/logging.hpp"
+// Events
+#include "milka/events/event.hpp"
+#include "milka/events/keys.hpp"
+// Graphics
+#include "milka/graphics/renderer.hpp"
+#include "milka/graphics/rendererInternal.hpp"
