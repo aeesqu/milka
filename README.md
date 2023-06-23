@@ -9,8 +9,8 @@ a better computer :)
 # Rendering APIs
 Milka support multiple rendering apis.
 For now, the supported rendering APIs are:
-*DirectX9
-*SDL2 renderer
+* DirectX9
+* SDL2 renderer
 
 For now, I can't add OpenGL since my computer only supports
 OpenGL 1.1.
